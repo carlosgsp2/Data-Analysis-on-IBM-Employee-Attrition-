@@ -19,7 +19,13 @@ There was a statistical significance showing that people leave for a higher job 
 
 If more data is available in the future, I would like to merge it and conduct more analysis. 
 
-Relevant screenshots or supplemental images
 ![image](https://github.com/carlosgsp2/Data-Analysis-on-IBM-Employee-Attrition-/assets/145519266/3cd4ebc6-0afe-4f04-bc1b-4334e640085b)
+![image](https://github.com/carlosgsp2/Data-Analysis-on-IBM-Employee-Attrition-/assets/145519266/35da04dc-0f07-4b72-933c-89f1c5d7a97c)
+![image](https://github.com/carlosgsp2/Data-Analysis-on-IBM-Employee-Attrition-/assets/145519266/a33f2224-416b-466e-a3a2-6e95dcab47ae)
+![image](https://github.com/carlosgsp2/Data-Analysis-on-IBM-Employee-Attrition-/assets/145519266/588027e2-313c-495a-9396-82bae1548baa)
+![image](https://github.com/carlosgsp2/Data-Analysis-on-IBM-Employee-Attrition-/assets/145519266/5eb81b55-3989-4401-9ef7-90b5169eb45d)
+
+
+
 
 
